@@ -61,11 +61,30 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "aa7c6ba4-1812-4748-9c77-6af2569834f0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Olaus_Magnus_-_On_Trade_Without_Using_Money-2.jpg",
+            "heading": "Printing Press",
+            "heading_size": "h2",
+            "subheading": "Hear ye, hear ye! Times are changing: get the latest scoop on what's happening in the world of craft.",
+            "button_label": "Let's go!",
+            "link": "shopify:\/\/blogs\/news",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide-0",
-        "slide-1"
+        "slide-1",
+        "aa7c6ba4-1812-4748-9c77-6af2569834f0"
       ],
       "settings": {
         "layout": "grid",
