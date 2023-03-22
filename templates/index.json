@@ -47,10 +47,10 @@
         "slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/a-coffee-a-book-yarn-and-needles-for-knitting.jpg",
+            "image": "shopify:\/\/shop_images\/100401.jpg",
             "heading": "Stitch Tracker",
             "heading_size": "medium",
-            "subheading": "Struggling to keep track of your stitches? Let our Stitch Tracker guide you and take the hassle out of counting stitches.",
+            "subheading": "Let our Stitch Tracker guide you and take the hassle out of counting stitches.",
             "button_label": "Let's go!",
             "link": "shopify:\/\/pages\/stitch-tracker",
             "button_style_secondary": false,
