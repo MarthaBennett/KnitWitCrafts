@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Welcome to KnitWit<\/p>",
+            "heading": "<p>KnitWit<\/p>",
             "heading_size": "h1"
           }
         }
@@ -32,7 +32,7 @@
             "image": "shopify:\/\/shop_images\/100459.jpg",
             "heading": "Design-It-Yourself Knitting Patterns",
             "heading_size": "medium",
-            "subheading": "EveCreate your own knitting designs with our pattern-making technology.",
+            "subheading": "Create your own knitting designs with our pattern-making technology.",
             "button_label": "Let's go!",
             "link": "shopify:\/\/pages\/design-it-yourself",
             "button_style_secondary": false,
